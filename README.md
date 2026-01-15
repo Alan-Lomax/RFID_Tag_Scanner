@@ -21,7 +21,7 @@ an ESP32 in a compartment accessed from the bottom, a 2.8 inch color LCD screen 
 and a PN5180 RFID scanner module hidden behind a top mounted cover plate.
 All other wiring is contained in the box and only the USB connector is available as an external connection (for power). 
 
-# The constituent designs used:
+### The constituent designs used:
 2.8" TFT ili9341 SPI Case     https://www.thingiverse.com/thing:3461768
 ESP32 DevKit V1 Case (Thick)  https://www.thingiverse.com/thing:4609596
  
